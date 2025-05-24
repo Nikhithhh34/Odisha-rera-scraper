@@ -1,4 +1,5 @@
 # Requirements: Run `pip install requests beautifulsoup4 pandas` to install dependencies
+pip install requests beautifulsoup4 pandas
 
 import requests
 from bs4 import BeautifulSoup
